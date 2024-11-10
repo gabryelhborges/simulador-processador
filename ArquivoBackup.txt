@@ -1,0 +1,19 @@
+1,224
+38,57,43,34,52
+2,201
+41,31,40,50,39
+3,222
+54,38,40,48,42
+4,203
+37,45,43,36,42
+4,InFelis.mp3,Imprimir,9
+3,Nunc.xls,Imprimir,1
+3,JustoLacinia.pdf,Gravar Dispositivo Interno,8
+1,PorttitorLacus.ppt,Gravar Dispositivo Externo,3
+4,QuisLectusSuspendisse.jpeg,Imprimir,6
+3,Diam.txt,Imprimir,7
+4,SapienIaculisCongue.jpeg,Gravar Dispositivo Externo,9
+2,Donec.xls,Gravar Dispositivo Externo,2
+1,JustoMorbi.mpeg,Gravar Dispositivo Externo,2
+4,AeneanFermentum.mp3,Gravar Dispositivo Externo,10
+1,OdioJusto.xls,Gravar Dispositivo Inte,10
